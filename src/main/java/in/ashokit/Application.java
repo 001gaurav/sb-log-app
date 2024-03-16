@@ -19,6 +19,7 @@ public class Application {
 
 	public void m2() {
 		int a =10;
+		int b=20;
 		System.out.println("M2");
 	}
 	
