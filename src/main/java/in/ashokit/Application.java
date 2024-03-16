@@ -21,5 +21,5 @@ public class Application {
 		int a =10;
 		System.out.println("M2");
 	}
-
+	
 }
