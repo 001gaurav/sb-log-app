@@ -14,7 +14,7 @@ public class service {
 	public String getWelcomeMsg()
 	{	
 		logger.info("getWelcomeMsg() - started...");
-		String msg = "Welcome to Ashok IT";
+		String msg = "Welcome to Ashok IT"; 
 		logger.info("getWelcomeMSg() - ended...");
 		return msg;	
 	}

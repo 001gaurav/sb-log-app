@@ -15,6 +15,11 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		int a = 10;
 		int b = 20;
+		int age=12;
+		if(age == 12)
+		{
+			System.out.println("");
+		}
 	}
 
 	public void m2() {
